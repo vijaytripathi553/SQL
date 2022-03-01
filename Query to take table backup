@@ -1,0 +1,6 @@
+SELECT 
+    *
+INTO 
+    student01March2022
+FROM 
+    student;
